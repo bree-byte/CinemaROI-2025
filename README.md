@@ -1,83 +1,44 @@
 # Movie Magic — Data-Driven Insights for Indie Filmmakers & Investors  
-**Capstone Project | Data Analytics | November 2025**
+**Capstone Project | Data Analytics | Nov 2025 | Brenda Chepteek**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![TMDB](https://img.shields.io/badge/Data-TMDB-01D277?logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
+Live Site → https://movie-magic.lovable.app  
+Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagicROI/Dashboard
 
-Live Site → [https://movie-magic.lovable.app ](https://filmprofit-pulse.lovable.app/) 
-Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagic-IndieFilmROI/Dashboard1  
+## The Problem Statement (Updated to Match Your Final Questions)
 
-## Project Overview
-Independent filmmakers in Kenya and across the world struggle to secure funding because they pitch passion without proof.  
-**Movie Magic** changes that: a full data analytics playbook that answers every investor question with hard numbers from 12,000+ films (2018 – Nov 2025).
+Investors repeatedly ask indie filmmakers six specific questions. This project answers **all six** using real data from 12,000+ films (2018 – Nov 2025):
 
-## Problem Statement
-Investors always ask the same 6 questions most indie filmmakers cannot answer with data:
+| # | Research Question You Answered with Your Charts                                                                 | Insight from Your Data |
+|---|------------------------------------------------------------------------------------------------------------------|-----------------------|
+| 1 | Which movie genres yield the highest ROI?                                                                        | **Horror (5.05×)** is #1, followed by Mystery & Animation |
+| 2 | Which genres are critically acclaimed versus financially successful?                                            | Animation & Mystery = high ratings **and** high ROI<br>Horror = high ROI despite lower ratings |
+| 3 | Which directors consistently produce profitable movies (≥3 films)?                                               | Greta Gerwig (9×), Jon Watts (9×), James Gunn (≥3 films, 2–3× avg) |
+| 4 | Which actors repeatedly contribute to high ROI projects (≥4 films in dataset)?                                   | Aaron Hendry, Will Collyer, Jack Black, Jemaine Clement, Cathy Cavadini (all 5–7×) |
+| 5 | Which genres are oversaturated, and which are underserved yet lucrative (saturation vs opportunity)?           | **Best gaps**: Mystery, Sci-Fi/Fantasy, Music<br>**Avoid**: Action, Comedy, War |
+| 6 | How do yearly trends in genres (especially animation) affect potential investment decisions?                    | Animation ROI crashed to ~1× in 2021 (hybrid releases) → exploded to 12×+ in 2023–2025 (theatrical-first + IP) |
 
-1. Which genres actually deliver the highest ROI?  
-2. Which directors consistently make money across ≥3 films?  
-3. Which actors repeatedly appear in high-ROI projects?  
-4. Which genres are oversaturated vs underserved goldmines?  
-5. Why did animation ROI crash in 2021 and explode again in 2023–2025?  
-6. Where should I put my $5M–$50M budget for maximum return?
+These are now 100% aligned with the charts you built.
 
-This project gives clear, visual, investor-ready answers.
+## Key Insights (Directly from Your Visualizations)
 
-## Objectives
-- Identify the most profitable & audience-loved genres 2018–2025  
-- Highlight directors & actors with proven, repeatable ROI  
-- Map genre saturation vs opportunity to find market gaps  
-- Deliver a clean dataset + interactive dashboard  
-- Empower indie filmmakers to pitch like studio executives
+- **Horror** remains the most profitable genre at 5.05× average ROI  
+- **Animation** delivers both high audience love (7.2/10) **and** strong ROI (3.87×)  
+- **Mystery** is the most underserved high-ROI niche — perfect for indie differentiation  
+- Top 5 actors by ROI are all supporting/voice performers in billion-dollar franchises (MCU & Illumination cameos can boost a film’s ROI by 3–7×  
+- Animation’s 2021 crash and 2023–2025 explosion is the clearest trend in the entire dataset  
+- Action & Comedy are the most oversaturated with only modest returns  
 
-## Data Sources & Tools
-| Category      | Tool / Source                  | Purpose                              |
-|---------------|--------------------------------|--------------------------------------|
-| Data          | TMDB API (12k+ films)          | Budgets, revenue, cast, genres       |
-| Processing    | Python • Pandas • Jupyter      | Cleaning & feature engineering       |
-| Storage       | Google BigQuery                | Fast querying                        |
-| Visualization | Tableau Public                 | Investor-grade interactive dashboard |
-| Website       | Lovable.dev                    | Beautiful cinematic portfolio site   |
-| Hosting       | GitHub                         | Version control & public showcase    |
-
-## Methodology
-1. Collected 2018–2025 theatrical releases via TMDB API  
-2. Cleaned: removed duplicates, missing revenue/budget, re-releases  
-3. Exploded multi-value fields (genres, cast, directors)  
-4. Engineered: ROI, Saturation Score, Opportunity Score  
-5. Filtered talent: Directors ≥3 films, Actors ≥4 films  
-6. Built interactive Tableau dashboard + portfolio site
-
-## Key Insights (2018 – Nov 2025)
-- Horror → 5.05× average ROI → still the indie king  
-- Animation → crashed to ~1× in 2021 (hybrid releases) → exploded to 12×+ in 2023–2025  
-- Mystery & Sci-Fi/Fantasy → severely underserved but rising fast  
-- Top ROI actors = supporting/voice roles in MCU & Illumination films (5–7×)  
-- Action & Comedy → most oversaturated, mediocre returns  
-- Weak correlation between IMDb rating and ROI → marketing > reviews
-
-## Business Value
-| Stakeholder         | Benefit                                      |
-|---------------------|----------------------------------------------|
-| Indie Filmmakers    | Pitch with data → higher funding success     |
-| Investors           | Spot 5–10× opportunities early             |
-| Producers           | Justify genre & casting in seconds           |
-| Talent Agents       | Prove clients’ real ROI value                |
+## Tools & Data
+- TMDB API → Python/Pandas → Google BigQuery → Tableau → Lovable.dev site
 
 ## Live Links
 - Portfolio Website: https://movie-magic.lovable.app  
 - Tableau Dashboard: https://public.tableau.com/app/profile/brendachebyte  
-- GitHub Repo: https://github.com/brendachebyte/Movie-Magic-Capstone  
-- Blog Write-up: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-approach-to-maximizing-roi-for-indie-filmmakers
+- GitHub: https://github.com/brendachebyte/Movie-Magic-Capstone  
+- Full Write-Up: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-approach-to-maximizing-roi-for-indie-filmmakers
 
-## Future Improvements
-- Add ML prediction model for new film ROI  
-- Include regional performance (Africa, Asia, LatAm)  
-- Build budget simulator tool
+**Built with love in Nairobi, Kenya — November 2025**  
+Brenda Chepteek | Data Analyst × Filmmaker
 
-**Built with passion in Nairobi, Kenya • November 2025**  
-Brenda Chepteek • Data Analyst | Filmmaker | Storyteller
-
+Movie Magic — Turning African stories into global returns, one data point at a time.
 Movie Magic — Because great African stories deserve great returns.
