@@ -1,7 +1,8 @@
 # Movie Magic — Data-Driven Insights for Indie Filmmakers & Investors  
-**Capstone Project | Data Analytics | Nov 2025 | Brenda Chepteek**
+**Capstone Project | Data Analytics | Nov 2025 | Brenda Chebet**
 
 Live Site → (https://filmprofit-pulse.lovable.app/) 
+
 Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagicROI/Dashboard
 
 ## The Problem Statement (Updated to Match Your Final Questions)
