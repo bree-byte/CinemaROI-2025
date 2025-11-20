@@ -13,8 +13,8 @@ Investors repeatedly ask indie filmmakers six specific questions. This project a
 |---|------------------------------------------------------------------------------------------------------------------|-----------------------|
 | 1 | Which movie genres yield the highest ROI?                                                                        | **Horror (5.05×)** is #1, followed by Mystery & Animation |
 | 2 | Which genres are critically acclaimed versus financially successful?                                            | Animation & Mystery = high ratings **and** high ROI<br>Horror = high ROI despite lower ratings |
-| 3 | Which directors consistently produce profitable movies (≥3 films)?                                               | Greta Gerwig (9×), Jon Watts (9×), James Gunn (≥3 films, 2–3× avg) |
-| 4 | Which actors repeatedly contribute to high ROI projects (≥4 films in dataset)?                                   | Aaron Hendry, Will Collyer, Jack Black, Jemaine Clement, Cathy Cavadini (all 5–7×) |
+| 3 | Which directors consistently produce profitable movies                                                          | Greta Gerwig (9×), Jon Watts (9×), James Gunn (≥3 films, 2–3× avg) |
+| 4 | Which actors repeatedly contribute to high ROI projects                                                         | Aaron Hendry, Will Collyer, Jack Black, Jemaine Clement, Cathy Cavadini (all 5–7×) |
 | 5 | Which genres are oversaturated, and which are underserved yet lucrative (saturation vs opportunity)?           | **Best gaps**: Mystery, Sci-Fi/Fantasy, Music<br>**Avoid**: Action, Comedy, War |
 | 6 | How do yearly trends in genres (especially animation) affect potential investment decisions?                    | Animation ROI crashed to ~1× in 2021 (hybrid releases) → exploded to 12×+ in 2023–2025 (theatrical-first + IP) |
 
