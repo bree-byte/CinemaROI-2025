@@ -3,6 +3,8 @@
 
 Live Site → (https://filmprofit-pulse.lovable.app/) 
 
+Read more: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-playbook-for-indie-filmmakers-and-investors-2020-2025?t=1763664254753
+
 Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagicROI/Dashboard
 
 ## The Problem Statement (Updated to Match Your Final Questions)
@@ -39,7 +41,5 @@ These are now 100% aligned with the charts you built.
 - Full Write-Up: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-approach-to-maximizing-roi-for-indie-filmmakers
 
 **Built with love in Nairobi, Kenya — November 2025**  
-Brenda Chepteek | Data Analyst × Filmmaker
+Brenda Chebet | Data Analyst 
 
-Movie Magic — Turning African stories into global returns, one data point at a time.
-Movie Magic — Because great African stories deserve great returns.
