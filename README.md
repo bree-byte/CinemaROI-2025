@@ -6,7 +6,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![TMDB](https://img.shields.io/badge/Data-TMDB-01D277?logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
 
-Live Site → https://movie-magic.lovable.app  
+Live Site → [https://movie-magic.lovable.app ](https://filmprofit-pulse.lovable.app/) 
 Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagic-IndieFilmROI/Dashboard1  
 
 ## Project Overview
