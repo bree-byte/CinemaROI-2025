@@ -5,7 +5,7 @@ Live Site → (https://filmprofit-pulse.lovable.app/)
 
 Read more: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-playbook-for-indie-filmmakers-and-investors-2020-2025?t=1763664254753
 
-Interactive Dashboard → https://public.tableau.com/app/profile/brendachebyte/viz/MovieMagicROI/Dashboard
+Interactive Dashboard → https://public.tableau.com/app/profile/brenda.chebet/viz/FilmROIAnalytics/Dashboard1?publish=yes
 
 ## The Problem Statement (Updated to Match Your Final Questions)
 
