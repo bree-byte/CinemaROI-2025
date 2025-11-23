@@ -7,22 +7,22 @@ Read more: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-playbook
 
 Interactive Dashboard → https://public.tableau.com/app/profile/brenda.chebet/viz/FilmROIAnalytics/Dashboard1?publish=yes
 
-## The Problem Statement (Updated to Match Your Final Questions)
+## The Problem Statement 
 
-Investors repeatedly ask indie filmmakers six specific questions. This project answers **all six** using real data from 12,000+ films (2018 – Nov 2025):
+Investors repeatedly ask indie filmmakers six specific questions. This project answers **all six** using real data from 12,000+ films (2020 – Nov 2025):
 
-| # | Research Question You Answered with Your Charts                                                                 | Insight from Your Data |
-|---|------------------------------------------------------------------------------------------------------------------|-----------------------|
-| 1 | Which movie genres yield the highest ROI?                                                                        | **Horror (5.05×)** is #1, followed by Mystery & Animation |
-| 2 | Which genres are critically acclaimed versus financially successful?                                            | Animation & Mystery = high ratings **and** high ROI<br>Horror = high ROI despite lower ratings |
-| 3 | Which directors consistently produce profitable movies                                                          | Greta Gerwig (9×), Jon Watts (9×), James Gunn (≥3 films, 2–3× avg) |
-| 4 | Which actors repeatedly contribute to high ROI projects                                                         | Aaron Hendry, Will Collyer, Jack Black, Jemaine Clement, Cathy Cavadini (all 5–7×) |
-| 5 | Which genres are oversaturated, and which are underserved yet lucrative (saturation vs opportunity)?           | **Best gaps**: Mystery, Sci-Fi/Fantasy, Music<br>**Avoid**: Action, Comedy, War |
-| 6 | How do yearly trends in genres (especially animation) affect potential investment decisions?                    | Animation ROI crashed to ~1× in 2021 (hybrid releases) → exploded to 12×+ in 2023–2025 (theatrical-first + IP) |
+| # | Research Question You Answered with Charts                                                                 
+|---|-----------------------------------------------------------------------------------------------------------------------------------------
+| 1 | Which movie genres yield the highest ROI?                                                                         
+| 2 | Which genres are critically acclaimed versus financially successful?                                            
+| 3 | Which directors consistently produce profitable movies                                                          
+| 4 | Which actors repeatedly contribute to high ROI projects                                                        
+| 5 | Which genres are oversaturated, and which are underserved yet lucrative (saturation vs opportunity)?           
+| 6 | How do yearly trends in genres (especially animation) affect potential investment decisions?                    
 
-These are now 100% aligned with the charts you built.
 
-## Key Insights (Directly from Your Visualizations)
+
+## Key Insights 
 
 - **Horror** remains the most profitable genre at 5.05× average ROI  
 - **Animation** delivers both high audience love (7.2/10) **and** strong ROI (3.87×)  
