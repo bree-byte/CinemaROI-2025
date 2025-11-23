@@ -11,7 +11,7 @@ Interactive Dashboard → https://public.tableau.com/app/profile/brenda.chebet/v
 
 Investors repeatedly ask indie filmmakers six specific questions. This project answers **all six** using real data from 12,000+ films (2020 – Nov 2025):
 
-| # | Research Question You Answered with Charts                                                                 
+| # | Research Question Answered with Charts                                                                 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------
 | 1 | Which movie genres yield the highest ROI?                                                                         
 | 2 | Which genres are critically acclaimed versus financially successful?                                            
