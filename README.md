@@ -40,6 +40,10 @@ Investors repeatedly ask indie filmmakers six specific questions. This project a
 - GitHub: https://github.com/brendachebyte/Movie-Magic-Capstone  
 - Full Write-Up: https://brendachebyte.hashnode.dev/movie-magic-a-data-driven-approach-to-maximizing-roi-for-indie-filmmakers
 
-**Built with love in Nairobi, Kenya — November 2025**  
-Brenda Chebet | Data Analyst 
+## License
+This project is released under the MIT License.
+
+## Contact
+- Email: brendachebet2030@gmail.com
+- GitHub: [bree-byte](https://github.com/bree-byte)
 
