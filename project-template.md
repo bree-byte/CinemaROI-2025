@@ -9,8 +9,7 @@ Investors always ask the same tough questions most indies cannot answer with har
 
 - Which genres actually deliver the highest ROI?  
 - Which directors and actors consistently make money across multiple films?  
-- Which markets are overcrowded vs. wide-open goldmines?  
-- Why do some 7.0+ IMDb films flop while 6.0 horrors print cash?
+- Which markets are overcrowded vs. wide-open goldmines? 
 
 Without credible numbers, great scripts stay in development hell forever.
 
